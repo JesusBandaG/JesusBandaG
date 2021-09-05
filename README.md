@@ -1,5 +1,6 @@
 <div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Jesús.  👋</h1>
+  <h2>About me...</h2>
   I have a Bachelor's Degree in Bionics Engineering from UPIITA-IPN. I'm passionate about learning new things, developing new skills and participating in innovative projects.
 </div>
 <div>
@@ -72,7 +73,13 @@
       <img align="center" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" style="width:80px;">
     </p>
   </div>
-  
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJesusBandaGanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<h2>GitHub Stats</h2>
+  <div align="center" style="max-width:100%;">
+    <a href="https://github.com/JesusBandaG/JesusBandaG">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusBandaG&?count_private=true&show_icons=true&theme=merko" />
+    </a>
+  </div>
+</div>
