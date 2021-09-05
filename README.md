@@ -21,7 +21,7 @@
 </div>
 
 <div>
-  <h2>My technical skills</h2>
+  <h2>My technical skills</h2> 💻⚙ 
   
   <div>
     <h3>Programming Languages:</h3>
