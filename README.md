@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center"> Hi, I'm Jesús.  👋</h2>
+  <h1 align="center"> Hi, I'm Jesús.  👋</h1>
   I have a Bachelor's Degree in Bionics Engineering from UPIITA-IPN. I'm passionate about learning new things, developing new skills and participating in innovative projects.
 </div>
 <div>
@@ -21,10 +21,10 @@
 </div>
 
 <div>
-  <h3>My technical skills</h3>
+  <h2>My technical skills</h2>
   
   <div>
-    <h4>Programming Languages:</h4>
+    <h3>Programming Languages:</h3>
     <p align="center">
       <img align="center" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" style="width:40px;">&nbsp 
       <img align="center" src="https://media.istockphoto.com/vectors/database-server-isolated-flat-web-mobile-icon-with-sql-word-vector-vector-id1055067852?k=6&m=1055067852&s=170667a&w=0&h=bGbkdAvh6xJQHnVMeRje0Uc8al46DDc6Bq7TsT0mdyU=" alt="SQL" style="width:70px;">
@@ -40,7 +40,7 @@
   </div>
   
   <div>
-    <h4>Software tools:</h4>
+    <h3>Software tools:</h3>
     <p align="center">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/368px-Amazon_Web_Services_Logo.svg.png" alt="AWS" style="width:45px;">&nbsp&nbsp
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" style="width:60px;">&nbsp&nbsp
@@ -62,7 +62,7 @@
   </div>
 
   <div>
-    <h4>Frameworks & libraries:</h4>
+    <h3>Frameworks & libraries:</h3>
     <p align="center">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" alt="Tensorflow" style="width:120px;">
       <img align="center" src="https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="Pytorch" style="width:60px;">&nbsp&nbsp&nbsp
