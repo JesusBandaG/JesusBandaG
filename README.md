@@ -1,4 +1,4 @@
-<div>
+<div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Jesús.  👋</h1>
   I have a Bachelor's Degree in Bionics Engineering from UPIITA-IPN. I'm passionate about learning new things, developing new skills and participating in innovative projects.
 </div>
@@ -20,7 +20,7 @@
   </p>
 </div>
 
-<div>
+<div style="max-width:100%;">
   <h2>My technical skills 💻⚙</h2> 
   
   <div>
@@ -74,3 +74,5 @@
   </div>
   
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiJesusBandaGanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
