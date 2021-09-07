@@ -14,7 +14,7 @@
         </a>
         or
         <a href="https://www.linkedin.com/in/jes%C3%BAs-banda-5a3131a5/">
-          <img align="center" src="linkedin.png" alt="LinkedIn" style="width:25px;">
+          <img align="center" src="img/linkedin.png" alt="LinkedIn" style="width:25px;">
         </a>
       </li>
     </ul>
