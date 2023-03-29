@@ -79,7 +79,7 @@
 <h2>GitHub Stats</h2>
   <div align="center" style="max-width:100%;">
     <a href="https://github.com/JesusBandaG/JesusBandaG">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusBandaG&?count_private=true&show_icons=true&theme=merko" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusBandaG&count_private=true&show_icons=true&theme=merko" />
     </a>
   </div>
 </div>
