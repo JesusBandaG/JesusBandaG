@@ -1,12 +1,12 @@
 <div style="max-width:100%;">
   <h1 align="center"> Hi, I'm Jesús.  👋</h1>
   <h2>About me...</h2>
-  I have a Bachelor's Degree in Bionics Engineering from UPIITA-IPN. I'm passionate about learning new things, developing new skills and participating in innovative projects.
+  I have a Bachelor's Degree in Bionics Engineering from UPIITA-IPN. I'm passionate about learning new things, developing new skills and participating in innovative projects. 
 </div>
 <div>
   <p>
     <ul>
-      <li>🌱 I’m currently learning Tiny ML and frontend skills.</li >
+      <li>🌱 I’m currently learning Tiny ML and improving my skills.</li >
       <li>👯 I’m looking to collaborate on innovative AI projects.</li>
       <li>📫 How to reach me: 
         <a href="mailto:banda.j94@gmail.com">
