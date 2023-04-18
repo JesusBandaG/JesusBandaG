@@ -31,15 +31,15 @@
       <img align="center" src="img/SQL.jpg" alt="SQL" style="width:55px;">
       <img align="center" src="img/matlab.png" alt="Matlab" style="width:80px;">&nbsp
       <img align="center" src="img/C++.png" alt="C++" style="width:35px;">&nbsp&nbsp&nbsp&nbsp 
-      <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">&nbsp&nbsp 
-      <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
-      <img align="center" src="img/css.png" alt="CSS" style="width:55px;">&nbsp 
-      <img align="center" src="img/javascript.png" alt="JavaScript" style="width:50px;">
-      <br>
-      <br>
       <img align="center" src="img/java.png" alt="Java" style="width:65px;">&nbsp
       <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
+      <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">
+      <br>
+      <br>
+      <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
+      <img align="center" src="img/css.png" alt="CSS" style="width:55px;">&nbsp 
+      <img align="center" src="img/javascript.png" alt="JavaScript" style="width:50px;">
       <br>
       <br>
     </p>
