@@ -6,7 +6,7 @@
 <div>
   <p>
     <ul>
-      <li>🌱 I’m currently learning Tiny ML and improving my skills.</li >
+      <li>🌱 I’m currently learning Tiny ML and expanding my tech stack.</li >
       <li>👯 I’m looking to collaborate on innovative AI projects.</li>
       <li>📫 How to reach me: 
         <a href="mailto:banda.j94@gmail.com">
@@ -34,7 +34,12 @@
       <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">&nbsp&nbsp 
       <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
       <img align="center" src="img/css.png" alt="CSS" style="width:55px;">&nbsp 
-      <img align="center" src="img/javascript.png" alt="JavaScript" style="width:50px;"> 
+      <img align="center" src="img/javascript.png" alt="JavaScript" style="width:50px;">
+      <br>
+      <br>
+      <img align="center" src="img/java.png" alt="Java" style="width:65px;">&nbsp&nbsp
+      <img align="center" src="img/sh.png" alt="Shell" style="width:65px;">&nbsp&nbsp
+      <img align="center" src="img/php.png" alt="PHP" style="width:65px;">&nbsp&nbsp
       <br>
       <br>
     </p>
@@ -49,11 +54,21 @@
       <img align="center" src="img/VScode.png" alt="VS Code" style="width:90px;">
       <img align="center" src="img/pyCharm.png" alt="Pycharm" style="width:80px;">&nbsp
       <img align="center" src="img/gcolab.png" alt="Google Colab" style="width:45px;">
-      <br>
-      <br>
       <img align="center" src="img/anaconda.png" alt="Anaconda" style="width:65px;">&nbsp&nbsp
       <img align="center" src="img/SQLserver.png" alt="SQL Server Management" style="width:55px;">&nbsp&nbsp
+      <br>
+      <br>
       <img align="center" src="img/workbench.png" alt="Workbench" style="width:80px;">
+      <img align="center" src="img/mongodb.png" alt="MongoDB" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/cassandra.png" alt="Cassandra" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/postgresql.png" alt="PostgreSQL" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/docker.png" alt="Docker" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/databricks.png" alt="Databricks" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/hue.png" alt="Hue" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/clickup.png" alt="ClickUp" style="width:55px;">&nbsp&nbsp
+      <br>
+      <br>
+      <img align="center" src="img/databricks.png" alt="Databricks" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/mplabXide.png" alt="MPLAB X IDE" style="width:45px;">&nbsp&nbsp
       <img align="center" src="img/mikroC.png" alt="MikroC" style="width:35px;">&nbsp&nbsp
       <img align="center" src="img/proteus.png" alt="Proteus Design" style="width:95px;">
