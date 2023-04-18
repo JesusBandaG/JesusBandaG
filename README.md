@@ -28,7 +28,7 @@
     <h3>Programming Languages:</h3>
     <p align="center">
       <img align="center" src="img/python.png" alt="Python" style="width:40px;">&nbsp 
-      <img align="center" src="img/SQL.jpg" alt="SQL" style="width:70px;">
+      <img align="center" src="img/SQL.jpg" alt="SQL" style="width:65px;">
       <img align="center" src="img/matlab.png" alt="Matlab" style="width:80px;">&nbsp&nbsp 
       <img align="center" src="img/C++.png" alt="C++" style="width:35px;">&nbsp&nbsp&nbsp&nbsp 
       <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">&nbsp&nbsp 
@@ -38,8 +38,8 @@
       <br>
       <br>
       <img align="center" src="img/java.png" alt="Java" style="width:65px;">&nbsp&nbsp
-      <img align="center" src="img/sh.png" alt="Shell" style="width:65px;">&nbsp&nbsp
-      <img align="center" src="img/php.png" alt="PHP" style="width:65px;">&nbsp&nbsp
+      <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
+      <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
       <br>
       <br>
     </p>
@@ -60,7 +60,7 @@
       <br>
       <img align="center" src="img/workbench.png" alt="Workbench" style="width:80px;">
       <img align="center" src="img/mongodb.png" alt="MongoDB" style="width:55px;">&nbsp&nbsp
-      <img align="center" src="img/cassandra.png" alt="Cassandra" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/cassandra.png" alt="Cassandra" style="width:70px;">&nbsp&nbsp
       <img align="center" src="img/postgresql.png" alt="PostgreSQL" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/docker.png" alt="Docker" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/databricks.png" alt="Databricks" style="width:55px;">&nbsp&nbsp
@@ -68,7 +68,7 @@
       <img align="center" src="img/clickup.png" alt="ClickUp" style="width:55px;">&nbsp&nbsp
       <br>
       <br>
-      <img align="center" src="img/databricks.png" alt="Databricks" style="width:55px;">&nbsp&nbsp
+      <img align="center" src="img/jira.png" alt="Jira" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/mplabXide.png" alt="MPLAB X IDE" style="width:45px;">&nbsp&nbsp
       <img align="center" src="img/mikroC.png" alt="MikroC" style="width:35px;">&nbsp&nbsp
       <img align="center" src="img/proteus.png" alt="Proteus Design" style="width:95px;">
@@ -86,6 +86,10 @@
       <img align="center" src="img/pandas.png" alt="Pandas" style="width:75px;">&nbsp&nbsp
       <img align="center" src="img/openCV.png" alt="OpenCV" style="width:75px;">&nbsp&nbsp
       <img align="center" src="img/matplotlib.png" alt="Matplotlib" style="width:80px;">
+      <br>
+      <br>
+      <img align="center" src="img/hadoop.png" alt="Hadoop" style="width:80px;">
+      <img align="center" src="img/spark.png" alt="Spark" style="width:80px;">
     </p>
   </div>
 </div>
