@@ -27,9 +27,9 @@
   <div>
     <h3>Programming Languages:</h3>
     <p align="center">
-      <img align="center" src="img/python.png" alt="Python" style="width:40px;">&nbsp 
+      <img align="center" src="img/python.png" alt="Python" style="width:40px;">&nbsp&nbsp
       <img align="center" src="img/SQL.jpg" alt="SQL" style="width:55px;">
-      <img align="center" src="img/matlab.png" alt="Matlab" style="width:80px;">&nbsp&nbsp 
+      <img align="center" src="img/matlab.png" alt="Matlab" style="width:80px;">&nbsp
       <img align="center" src="img/C++.png" alt="C++" style="width:35px;">&nbsp&nbsp&nbsp&nbsp 
       <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">&nbsp&nbsp 
       <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
@@ -68,7 +68,7 @@
       <img align="center" src="img/clickup.png" alt="ClickUp" style="width:60px;">&nbsp&nbsp
       <br>
       <br>
-      <img align="center" src="img/jira.png" alt="Jira" style="width:70px;">&nbsp&nbsp
+      <img align="center" src="img/jira.png" alt="Jira" style="width:85px;">&nbsp&nbsp
       <img align="center" src="img/mplabXide.png" alt="MPLAB X IDE" style="width:45px;">&nbsp&nbsp
       <img align="center" src="img/mikroC.png" alt="MikroC" style="width:35px;">&nbsp&nbsp
       <img align="center" src="img/proteus.png" alt="Proteus Design" style="width:95px;">
@@ -84,10 +84,10 @@
       <img align="center" src="img/pytorch.png" alt="Pytorch" style="width:60px;">&nbsp&nbsp&nbsp
       <img align="center" src="img/scikitLearn.png" alt="SciKit Learn" style="width:70px;">&nbsp&nbsp
       <img align="center" src="img/pandas.png" alt="Pandas" style="width:75px;">&nbsp&nbsp
+      <br>
+      <br>
       <img align="center" src="img/openCV.png" alt="OpenCV" style="width:75px;">&nbsp&nbsp
-      <img align="center" src="img/matplotlib.png" alt="Matplotlib" style="width:80px;">
-      <br>
-      <br>
+      <img align="center" src="img/matplotlib.png" alt="Matplotlib" style="width:80px;">&nbsp&nbsp
       <img align="center" src="img/hadoop.png" alt="Hadoop" style="width:90px;">&nbsp&nbsp
       <img align="center" src="img/spark.png" alt="Spark" style="width:80px;">
     </p>
