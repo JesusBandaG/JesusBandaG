@@ -33,13 +33,7 @@
       <img align="center" src="img/C++.png" alt="C++" style="width:35px;">&nbsp
       <img align="center" src="img/java.png" alt="Java" style="width:65px;">
       <img align="center" src="img/sh.png" alt="Shell" style="width:50px;">&nbsp&nbsp
-      <img align="center" src="img/php.png" alt="PHP" style="width:50px;">&nbsp&nbsp
       <img align="center" src="img/assembly.png" alt="Assembly" style="width:35px;">
-      <br>
-      <br>
-      <img align="center" src="img/HTML.png" alt="HTML" style="width:45px;">&nbsp 
-      <img align="center" src="img/css.png" alt="CSS" style="width:55px;">&nbsp 
-      <img align="center" src="img/javascript.png" alt="JavaScript" style="width:50px;">
       <br>
       <br>
     </p>
@@ -65,7 +59,6 @@
       <img align="center" src="img/docker.png" alt="Docker" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/databricks.png" alt="Databricks" style="width:55px;">&nbsp&nbsp
       <img align="center" src="img/hue.png" alt="Hue" style="width:55px;">&nbsp&nbsp
-      <img align="center" src="img/clickup.png" alt="ClickUp" style="width:60px;">&nbsp&nbsp
       <br>
       <br>
       <img align="center" src="img/jira.png" alt="Jira" style="width:85px;">&nbsp&nbsp
